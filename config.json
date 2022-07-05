@@ -1,0 +1,9 @@
+{
+  "prefix" : ",", 
+  "db": "mongodb+srv://user:tnJJuH6IyKy7qn6E@cluster0.iv60t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", 
+  "color": "BLUE", 
+    "error": "RED",
+    "success": "GREEN"
+
+  
+  }
